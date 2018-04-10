@@ -1,1 +1,0 @@
-c:\users\corne\source\repos\WhiteBoardQuestion\WhiteBoardQuestion\WhiteBoardQuestion.csproj;x86
